@@ -1,0 +1,2 @@
+export LAYER_NAME=nodejs14-2020012701
+export NODE_VERSION=14.0.0-pre
